@@ -6,7 +6,7 @@ To use it, simply install the node package through the npm installer into your p
 $ npm install quadsolver
 ```
 
-The function takes in 3 parameters to represent the coefficients in a standard form equation  Ax^2 + Bx + C
+The function takes in 3 parameters to represent the coefficients in a standard form equation  Ax^2 + Bx + C. It will then tell you how man real roots exist, as well as the x coordinates of the roots
 
 # An example function call
 ```bash
